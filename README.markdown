@@ -17,4 +17,9 @@
 
 If you would like to use std input, send an EOF (ctrl-D)
 to indicate when you are done.
- 
+
+## Unit Tests
+
+    python3 hw1_test.py
+
+The above command will run the unit tests.
