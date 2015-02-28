@@ -1,10 +1,10 @@
 # Intro to AI Homework 1: Malea Grubb
 
-### Requires
+#### Requires
 
     python3
 
-## Included in Homework Submission
+#### Included in Homework Submission
 
     hw1.py
     hw1_test.py
