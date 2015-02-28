@@ -11,14 +11,14 @@
     sample_input.txt
     README.markdown
 
-## To Run
+#### To Run
 
     python3 hw1.py < sample_input.txt
 
 If you would like to use std input, send an EOF (ctrl-D)
 to indicate when you are done.
 
-## Unit Tests
+#### Unit Tests
 
     python3 hw1_test.py
 
